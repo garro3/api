@@ -28,6 +28,6 @@ public class Employee {
     private String mail;
 
     private String password;
+    // Add constructors, getters, and setters if needed (Lombok @Data will generate them)
 
-    
 }
